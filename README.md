@@ -19,7 +19,7 @@ A door to introduce you to the set of the main functionalities of this technolog
 
 ## Run
 
-Run the docker container:
+Run the docker container:::
 
 `docker run -p 8080:8080 josephrodriguez/springboot-starterkit`
 
