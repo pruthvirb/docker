@@ -1,0 +1,9 @@
+/.git/
+/.github/
+/.idea/
+*.md
+/docker-compose.yml
+/request.http
+/.run/
+target/
+**/*.cmd
